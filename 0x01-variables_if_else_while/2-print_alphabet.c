@@ -15,6 +15,6 @@ while (lowerCase <= 'z')
 putchar(lowerCase);
 lowerCase += 1;
 }
-putchar('\n')
+putchar('\n');
 return (0);
 }
